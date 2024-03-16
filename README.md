@@ -1,4 +1,4 @@
-# C\+\+ STL-Library 📚📚
+# C\+\+ STL-Library Functions📚
 
 In C++, the Standard Template Library (STL) provides a set of programming tools to implement algorithms and data structures like vectors, lists, queues, etc. This repository contains entire C++ STL Library which anyone require while doing Competitive Programming, Contest solving or in Online Assessment. 
 
@@ -23,8 +23,6 @@ In C++, the Standard Template Library (STL) provides a set of programming tools 
 - [Unordered MultiMap In C++](#unordered-multimaps-in-c)
 
 ---
-
-<img src="/assets/images/CPPSTL.png" width="400" height="200">
 
 ---
 
