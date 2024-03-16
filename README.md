@@ -4,8 +4,6 @@ In C++, the Standard Template Library (STL) provides a set of programming tools 
 
 ---
 
----
-
 ## 🚀 Table of Contents
 
 - [Vector In C++](#vector-in-c)
@@ -21,8 +19,6 @@ In C++, the Standard Template Library (STL) provides a set of programming tools 
 - [Unordered Map In C++](#unordered-maps-in-c)
 - [MultiMap In C++](#multimaps-in-c)
 - [Unordered MultiMap In C++](#unordered-multimaps-in-c)
-
----
 
 ---
 
